@@ -1,0 +1,8 @@
+Navegacion: {
+    @react-navigation/native 
+    @react-navigation/bottom-tabs 
+    @react-navigation/native-stack 
+    @react-navigation/drawer 
+    @react-navigation/material-top-tabs 
+    react-native-tab-view  
+}
